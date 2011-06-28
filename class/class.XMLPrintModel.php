@@ -4,7 +4,13 @@
 /*   Moteur PHP de chargement de fichier  */
 /*             XMLPrintModel              */
 /*                                        */
-/* *****************************************/
+/*  Ecrit par Jean-Baptiste Nahan         */
+/*  contact : jbnahan@gmail.com           */
+/*                                        */
+/*           Licence CeCILL-v1            */
+/*                                        */
+/******************************************/
+
 
 // Utilisable avec PHP 5 Seulement
 

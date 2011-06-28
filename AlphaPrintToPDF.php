@@ -3,6 +3,11 @@
 /*          AlphaPrintToPDF.php           */
 /*       Moteur PHP d'impression          */
 /*                                        */
+/*  Ecrit par Jean-Baptiste Nahan         */
+/*  contact : jbnahan@gmail.com           */
+/*                                        */
+/*           Licence CeCILL-v1            */
+/*                                        */
 /******************************************/
 
 /* Ajout du 29/07/2010 : Ajout de la gestion des propriétés BOLD et ITALIC pour le texte. Dans le cas ou le nom de la police contient déjà les types proporiétés BOLD et/ou ITALIC elle seront directement utilisé. */
