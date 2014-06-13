@@ -13,7 +13,7 @@ include('AlphaPrintToPDF.php');
 $data=array();
 $data['pdfcreator']="My Company - 2007";
 $data['file']="Default.pdf";
-//$data['data']=array();
+
 $data['data']['nom']="nom Dossier";
 $data['data']['dossier']['nomdossier']="nom Dossier";
 $data['data']['dossier']['numdossier']="125060";
