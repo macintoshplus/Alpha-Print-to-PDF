@@ -1,3 +1,0 @@
-<?php
-
-//Mon test
