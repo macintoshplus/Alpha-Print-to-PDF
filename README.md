@@ -5,6 +5,8 @@ Cette librairie permet la création de PDF en utilisant un tableau de donnée PH
 
 Ecrite en 2010, elle n'est plus maintenue.
 
+This library is deprecated !
+
 ## Contribuer
 
 Réaliser un fork pour contribuer.
